@@ -111,11 +111,15 @@ The lines of code displayed below show the changes implemented in the refactored
 The result of refactoring this way was a much faster VBA script.
 
 
-Here is just one example of the difference in run Time. 
+Here is just one example of the difference in run Time -- refactored time was only a small fraction of orginal time. 
 
-![VBA Original Run Time]ReadMe_Images/VBA_original_time_2018.png
+#### VBA Original Script Run Time
 
-ReadMe_Images/VBA_refactored_time_2018.png
+![VBA Original Run Time](ReadMe_Images/VBA_original_time_2018.png)
+
+#### VBA Refactored Script Run Time
+
+![VBA Refactored Run Time](ReadMe_Images/VBA_refactored_time_2018.png)
 
 
 ## Summary 
