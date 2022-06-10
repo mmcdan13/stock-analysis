@@ -113,6 +113,10 @@ The result of refactoring this way was a much faster VBA script.
 
 Here is just one example of the difference in run Time. 
 
+![VBA Original Run Time]ReadMe_Images/VBA_original_time_2018.png
+
+ReadMe_Images/VBA_refactored_time_2018.png
+
 
 ## Summary 
 
