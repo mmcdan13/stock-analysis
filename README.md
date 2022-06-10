@@ -17,7 +17,7 @@ To refactor the VBA script, I needed to change the logic of the code as well as 
 
 The lines of code displayed below show the changes implemented in the refactored code. 
 
-'''
+
     
     '1a) Create a tickerIndex variable
         
@@ -106,9 +106,9 @@ The lines of code displayed below show the changes implemented in the refactored
     Next i
 
 
-'''
 
-The result of reefactoring this way was a much faster VBA script.
+
+The result of refactoring this way was a much faster VBA script.
 
 
 
