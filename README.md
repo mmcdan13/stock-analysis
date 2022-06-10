@@ -111,6 +111,8 @@ The lines of code displayed below show the changes implemented in the refactored
 The result of refactoring this way was a much faster VBA script.
 
 
+Here is just one example of the difference in run Time. 
+
 
 ## Summary 
 
