@@ -5,7 +5,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to use VBA to help our stakeholder research which stocks his parents should invest in.
+The purpose of this analysis is to use VBA to help our stakeholder research which stocks his parents should invest in. I used total daily volume and annual return as metrics.
 The purpose of this challenge is to refactor the VBA script so that it can be more efficient in order for the stakeholder to expand the dataset to thousands of stocks rather than only a dozen. 
 
 ## Results
